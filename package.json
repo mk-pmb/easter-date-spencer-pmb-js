@@ -1,5 +1,5 @@
 { "name": "easter-date-spencer-pmb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate the date of roman-catholic easter sunday, using the Spencer algorithm.",
   "keywords": [ "date", "easter", "holiday" ],
 

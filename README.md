@@ -40,7 +40,7 @@ Why use the Spencer algorithm?
 As far as I understand the various Easter date calculcation methods,
 the advantage of the Spencer algorithm is that it takes moon orbit
 into account, thus producing the correct result for
-all years of the Gregorian calendar [starting from 325 AD][nicaea1]
+all years of the Gregorian calendar [starting from 325 AD][nicaea1].
 
 Beware: Other algorithms seem to be valid for "most of the years",
 requiring a table lookup in a list of exceptions to see whether
@@ -56,8 +56,8 @@ formulae for `n` and `p`. The English wikipedia's
 [List of dates for Easter](https://en.wikipedia.org/wiki/?oldid=827866027)
 gives the possible date range as:
 
-* earliest: March 22th (e.g. in 1818)
-* latest: April 25 (e.g. in 1943)
+* earliest: March 22 (e.g. in 1818)
+* latest:   April 25 (e.g. in 1943)
 
 The first 21 days of March are out of range, so there are 10 possible days
 in March. April adds 25 candidates, so in total there are 35 possibilities.

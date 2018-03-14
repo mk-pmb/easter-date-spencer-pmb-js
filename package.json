@@ -1,0 +1,28 @@
+{ "name": "easter-date-spencer-pmb",
+  "version": "1.0.0",
+  "description": "Calculate the date of roman-catholic easter sunday, using the Spencer algorithm.",
+  "keywords": [ "date", "easter", "holiday" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/easter-date-spencer-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/easter-date-spencer-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/easter-date-spencer-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "spencer.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}

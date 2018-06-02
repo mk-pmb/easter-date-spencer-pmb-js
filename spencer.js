@@ -3,6 +3,9 @@
 'use strict';
 
 function romanCatholicEaster_SpencerAlgo(gregorianYear) {
+  if (gregorianYear < 325) {
+    throw new RangeError('Cannot calculate Easter dates before 325 AD.');
+  }
   function mod(a, b) { return (a % b); }
   function div(a, b) {
     var q = (a / b);
